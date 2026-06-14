@@ -5,3 +5,5 @@ F1 to place starting dot
 F2 to place second dot
 F3 to clear
 F4 to toggle the line
+
+Place 1 dot where the tornado is on radar, then when the radar updates, place another dot
