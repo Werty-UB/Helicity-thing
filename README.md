@@ -1,4 +1,4 @@
-# Cool helicity thingy!!!!11!11!!!!
+# Cool Helicity thingy!!!!11!11!!!!
 
 this just makes it so you can have a predition of where the tornado is going to be headed
 
