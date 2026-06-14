@@ -7,3 +7,5 @@ F3 to clear
 F4 to toggle the line
 
 Place 1 dot where the tornado is on radar, then when the radar updates, place another dot
+
+Press the Code dropdown thing, then download it as a .zip and extract it
